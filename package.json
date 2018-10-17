@@ -1,0 +1,24 @@
+{
+  "name": "money-at",
+  "version": "1.0.0",
+  "description": "Where the Money@? Bill minder, debt wrangler, and rainy-payday-planner for the budget-impaired.",
+  "main": "index.html",
+  "dependencies": {
+    "redux": "^4.0.1",
+    "react-redux": "^5.0.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mickeymullin/money-at.git"
+  },
+  "author": "Mickey Mullin",
+  "license": "",
+  "bugs": {
+    "url": "https://github.com/mickeymullin/money-at/issues"
+  },
+  "homepage": "https://github.com/mickeymullin/money-at#readme"
+}
