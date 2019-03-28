@@ -1,12 +1,17 @@
 {
   "name": "money-at",
-  "version": "0.1.0",
+  "version": "1.0.0",
+  "description": "Where the Money@? Bill minder, debt wrangler, and rainy-payday-planner for the budget-impaired.",
   "private": true,
+  "main": "index.html",
   "dependencies": {
     "react": "^16.8.2",
     "react-dom": "^16.8.2",
-    "react-scripts": "2.1.5"
+    "react-scripts": "2.1.5",
+    "redux": "^4.0.1",
+    "react-redux": "^5.0.7"
   },
+  "devDependencies": {},
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
@@ -21,5 +26,15 @@
     "not dead",
     "not ie <= 11",
     "not op_mini all"
-  ]
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mickeymullin/money-at.git"
+  },
+  "author": "Mickey Mullin",
+  "license": "",
+  "bugs": {
+    "url": "https://github.com/mickeymullin/money-at/issues"
+  },
+  "homepage": "https://github.com/mickeymullin/money-at#readme"
 }
