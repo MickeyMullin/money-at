@@ -1,0 +1,15 @@
+{
+  "name": "money-at-server",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^5.16.0",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.17.2"
+  },
+  "scripts": {},
+  "eslintConfig": {
+    "extends": "airbnb"
+  }
+}
